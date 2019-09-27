@@ -28,6 +28,10 @@ Depending on your OS, install with pip:
 To get more information about which options are available check out the _Advanced Options_ section, or just run
 > python ./PyLeapMouse.py --help
 
+## Control the mouse with Leap
++ To move the cursor, point forward with your index finger and move your hand
++ To click / drag, move the thumb close to your palm. To release / drop, move it away
+
 ## Advanced Options
 + `--smooth-aggressiveness [value]` sets the number of samples to use for pointer finger mouse smoothing.
 + `--smooth-falloff [value]` sets the rate at which previous samples lose importance.
