@@ -1,5 +1,5 @@
 # PyLeapMouse
-This project is based on code from wyager's Proof-of-concept code for a Leap Motion-based mouse controller, which can be found here: [github.com/openleap/pyleapmouse](github.com/openleap/pyleapmouse)
+This project is based on code from wyager's Proof-of-concept code for a Leap Motion-based mouse controller, which can be found here: [github.com/openleap/pyleapmouse](https://github.com/openleap/pyleapmouse)
 
 ## Important Notice
 The `Leap`-Libraries in the OS-specific directories are copies from the current version `2.3.1+31549`. If you want to use a different version of the libraries, just copy the respective files to the target directory.
